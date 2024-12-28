@@ -1,0 +1,10 @@
+2024/12/22-23:01:18.248 6b0 Recovering log #210
+2024/12/22-23:01:18.253 6b0 Delete type=0 #210
+2024/12/22-23:01:18.253 6b0 Delete type=3 #208
+2024/12/22-23:12:24.523 3ed4 Level-0 table #215: started
+2024/12/22-23:12:24.523 3ed4 Level-0 table #215: 0 bytes OK
+2024/12/22-23:12:24.526 3ed4 Delete type=0 #210
+2024/12/22-23:12:24.527 3ed4 Delete type=0 #213
+2024/12/22-23:12:24.527 3ed4 Delete type=3 #208
+2024/12/22-23:12:24.535 3ed4 Manual compaction at level-0 from '!folders!0R234yttpDVlZuwL' @ 72057594037927935 : 1 .. '!items!PyEvhSwJADro88zd' @ 0 : 0; will stop at (end)
+2024/12/22-23:12:24.540 3ed4 Manual compaction at level-1 from '!folders!0R234yttpDVlZuwL' @ 72057594037927935 : 1 .. '!items!PyEvhSwJADro88zd' @ 0 : 0; will stop at (end)

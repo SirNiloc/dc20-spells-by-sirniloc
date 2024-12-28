@@ -1,0 +1,40 @@
+{
+  "id": "dc20-spells-by-sirniloc",
+  "title": "Spells by SirNiloc (DC20)",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "SirNiloc",
+      "email": "sirniloc@ravn-quest.com",
+      "discord": "sirniloc",
+      "url": "https://www.patreon.com/c/user/posts?u=193990&view_as=patron",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "sirnilocs-spells",
+      "label": "SirNiloc's Spells",
+      "path": "packs/sirnilocs-spells",
+      "type": "Item",
+      "system": "dc20rpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dc20rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
