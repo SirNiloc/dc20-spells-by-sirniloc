@@ -1,7 +1,7 @@
 {
   "id": "dc20-spells-by-sirniloc",
   "title": "Spells by SirNiloc (DC20)",
-  "version": "0.0.1",
+  "version": "0.0.1-ea",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
