@@ -2,6 +2,8 @@
   "id": "dc20-spells-by-sirniloc",
   "title": "Spells by SirNiloc (DC20)",
   "version": "0.0.2-ea",
+  "manifest": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.2-ea/module.json",
+  "download": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.2-ea/dc20-spells-by-sirniloc.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
