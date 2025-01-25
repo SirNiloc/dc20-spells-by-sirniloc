@@ -1,2 +1,2 @@
 # Spells by SirNiloc (DC20)
- Adds additional spells for the DC20 game system
+Will add additional spells for the DC20 game system, is also a dependancy for my ancestry module. (https://github.com/SirNiloc/ancestries-by-sirniloc-dc20)
