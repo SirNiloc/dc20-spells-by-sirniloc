@@ -1,7 +1,7 @@
-2025/01/31-11:14:03.947 3264 Log #441: 0 ops saved to Table #454 OK
-2025/01/31-11:14:03.948 3264 Archiving C:\Users\Colin\AppData\Local\FoundryVTT\Data\modules\dc20-spells-by-sirniloc\packs\sirnilocs-spells/000441.log: OK
-2025/01/31-11:14:03.948 3264 Log #453: 0 ops saved to Table #455 OK
-2025/01/31-11:14:03.949 3264 Archiving C:\Users\Colin\AppData\Local\FoundryVTT\Data\modules\dc20-spells-by-sirniloc\packs\sirnilocs-spells/000453.log: OK
-2025/01/31-11:14:03.949 3264 Table #443: 4 entries OK
-2025/01/31-11:14:03.952 3264 Archiving C:\Users\Colin\AppData\Local\FoundryVTT\Data\modules\dc20-spells-by-sirniloc\packs\sirnilocs-spells/MANIFEST-000439: OK
-2025/01/31-11:14:03.958 3264 **** Repaired leveldb C:\Users\Colin\AppData\Local\FoundryVTT\Data\modules\dc20-spells-by-sirniloc\packs\sirnilocs-spells; recovered 1 files; 5317 bytes. Some data may have been lost. ****
+2025/02/21-23:36:28.657 1ad8 Recovering log #496
+2025/02/21-23:36:28.661 1ad8 Delete type=2 #460
+2025/02/21-23:36:28.661 1ad8 Delete type=2 #464
+2025/02/21-23:36:28.662 1ad8 Delete type=0 #468
+2025/02/21-23:36:28.662 1ad8 Delete type=0 #496
+2025/02/21-23:36:28.662 1ad8 Delete type=3 #467
+2025/02/21-23:36:28.663 1ad8 Delete type=3 #494

@@ -1,7 +1,7 @@
 {
   "id": "dc20-spells-by-sirniloc",
   "title": "Spells by SirNiloc (DC20)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.3/module.json",
   "download": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.3/dc20-spells-by-sirniloc.zip",
   "compatibility": {
@@ -28,6 +28,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "sirnilocs-spells-actors",
+      "label": "SirNiloc's Spells (Actors)",
+      "path": "packs/sirnilocs-spells-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dc20rpg"
     }
   ],
   "relationships": {
