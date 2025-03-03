@@ -1,7 +1,7 @@
 {
   "id": "dc20-spells-by-sirniloc",
-  "title": "Spells by SirNiloc (DC20)",
-  "version": "0.0.5",
+  "title": "RAVN Quest: Spells",
+  "version": "0.0.6",
   "manifest": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.5/module.json",
   "download": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/v0.0.5/dc20-spells-by-sirniloc.zip",
   "compatibility": {
@@ -20,7 +20,7 @@
   "packs": [
     {
       "name": "sirnilocs-spells",
-      "label": "SirNiloc's Spells",
+      "label": "RAVN Quest: Spells",
       "path": "packs/sirnilocs-spells",
       "type": "Item",
       "system": "dc20rpg",
@@ -31,7 +31,7 @@
     },
     {
       "name": "sirnilocs-spells-actors",
-      "label": "SirNiloc's Spells (Actors)",
+      "label": "RAVN Quest: Spells (Actors)",
       "path": "packs/sirnilocs-spells-actors",
       "type": "Actor",
       "system": "dc20rpg",
