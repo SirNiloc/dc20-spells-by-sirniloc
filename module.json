@@ -1,19 +1,19 @@
 {
   "id": "dc20-spells-by-sirniloc",
   "title": "RAVN Quest: Spells",
-  "version": "0.1.0",
-  "manifest": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/0.1.0/module.json",
-  "download": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/0.1.0/module.zip",
+  "version": "1.0.0",
+  "manifest": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/1.0.0/module.json",
+  "download": "https://github.com/SirNiloc/dc20-spells-by-sirniloc/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "authors": [
     {
       "name": "SirNiloc",
       "email": "sirniloc@ravn-quest.com",
       "discord": "sirniloc",
-      "url": "https://www.patreon.com/c/user/posts?u=193990&view_as=patron",
+      "url": "www.ravn-quest.com",
       "flags": {}
     }
   ],
@@ -50,5 +50,6 @@
       }
     ]
   },
-  "description": "Adds additional spells for the DC20 game system, is also a dependancy for my ancestry module."
+  "description": "<p>Adds additional spells for the DC20 game system, is also a dependancy for my ancestry module.</p>",
+  "url": "https://github.com/SirNiloc/dc20-spells-by-sirniloc"
 }
