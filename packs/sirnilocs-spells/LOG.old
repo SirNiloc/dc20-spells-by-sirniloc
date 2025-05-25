@@ -1,14 +1,16 @@
-2025/04/26-14:03:14.431 32b4 Recovering log #559
-2025/04/26-14:03:14.434 32b4 Delete type=0 #559
-2025/04/26-14:03:14.434 32b4 Delete type=3 #558
-2025/04/26-15:57:20.358 535c Level-0 table #563: started
-2025/04/26-15:57:20.377 535c Level-0 table #563: 236901 bytes OK
-2025/04/26-15:57:20.378 535c Delete type=0 #561
-2025/04/26-15:57:20.382 535c Manual compaction at level-0 from '!folders!4Ibe1pvXqlzeAqnc' @ 72057594037927935 : 1 .. '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 0 : 0; will stop at '!items!qLpLkSbup24VK7b8' @ 1016 : 1
-2025/04/26-15:57:20.382 535c Compacting 1@0 + 1@1 files
-2025/04/26-15:57:20.388 535c Generated table #564@0: 14 keys, 21734 bytes
-2025/04/26-15:57:20.388 535c Compacted 1@0 + 1@1 files => 21734 bytes
-2025/04/26-15:57:20.389 535c compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/04/26-15:57:20.389 535c Delete type=2 #543
-2025/04/26-15:57:20.389 535c Delete type=2 #563
-2025/04/26-15:57:20.395 535c Manual compaction at level-0 from '!items!qLpLkSbup24VK7b8' @ 1016 : 1 .. '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 0 : 0; will stop at (end)
+2025/05/25-17:15:49.924 810 Recovering log #689
+2025/05/25-17:15:49.924 810 Level-0 table #691: started
+2025/05/25-17:15:49.932 810 Level-0 table #691: 46015 bytes OK
+2025/05/25-17:15:49.935 810 Delete type=0 #689
+2025/05/25-17:15:49.935 810 Delete type=3 #688
+2025/05/25-17:16:15.863 319c Level-0 table #694: started
+2025/05/25-17:16:15.864 319c Level-0 table #694: 0 bytes OK
+2025/05/25-17:16:15.864 319c Delete type=0 #692
+2025/05/25-17:16:15.927 319c Manual compaction at level-0 from '!folders!4Ibe1pvXqlzeAqnc' @ 72057594037927935 : 1 .. '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 0 : 0; will stop at '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 1096 : 1
+2025/05/25-17:16:15.927 319c Compacting 1@0 + 1@1 files
+2025/05/25-17:16:15.935 319c Generated table #695@0: 14 keys, 27629 bytes
+2025/05/25-17:16:15.935 319c Compacted 1@0 + 1@1 files => 27629 bytes
+2025/05/25-17:16:15.936 319c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/25-17:16:15.936 319c Delete type=2 #687
+2025/05/25-17:16:15.936 319c Delete type=2 #691
+2025/05/25-17:16:16.009 319c Manual compaction at level-0 from '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 1096 : 1 .. '!items.effects!G1BhL63pKuoGDptQ.ch9417OUPmmltdIV' @ 0 : 0; will stop at (end)
